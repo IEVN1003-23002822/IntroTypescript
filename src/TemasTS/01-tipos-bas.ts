@@ -10,6 +10,7 @@ let activo:boolean
 let sum:number=num1 + num2 + num3
 console.log("La suma es:"+sum)
 
+
 nombre="pedro";
 console.log("nombre");
 
